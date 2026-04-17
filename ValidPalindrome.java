@@ -33,7 +33,7 @@ public class ValidPalindrome {
     }
 
     public static void main(String[] args) {
-        String str="poop";
+        String str="target";
         ValidPalindrome vp=new ValidPalindrome();
         System.out.println(vp.isvalid(str));
     }
