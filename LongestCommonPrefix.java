@@ -18,7 +18,7 @@ public class LongestCommonPrefix {
             }
         }
     }
-
+ 
     return strs[0];
 }
 
