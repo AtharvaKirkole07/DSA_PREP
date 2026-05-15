@@ -30,4 +30,4 @@ public class FirstNonRepeatingCharacter {
         String str="diyfdyufdiyudfydfyudfydufdyu";
 returnfirst(str);
     }
-}
+} 
